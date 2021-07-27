@@ -1,0 +1,12 @@
+{
+  "username": "postgres",
+  "password": "admin",
+  "database": "task_list",
+  "host": "localhost",
+  "dialect": "postgres",
+  "define": {
+    "timestamps": true,
+    "underscored": true,
+    "underscoredAll": true
+  }
+}
